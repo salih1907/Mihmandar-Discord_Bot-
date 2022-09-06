@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/events/GuildMessageReactionAdd.java=UTF-8
+encoding//src/events/GuildMessageReceived.java=UTF-8
+encoding//src/events/HelpCommand.java=UTF-8
+encoding//src/events/PrintDolar.java=UTF-8
+encoding//src/events/PrintEuro.java=UTF-8
+encoding//src/events/SendImage.java=UTF-8
+encoding//src/mihmandar/Commands.java=UTF-8
